@@ -1,6 +1,4 @@
-<a href="YOUR_LINKEDIN_URL_HERE">
-  <img src="profile.jpg" width="260" align="right" alt="Venkat's Profile Picture" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
-</a>
+
 
 <h1 align="left">Hi there, I'm Venkat Balusukuri 👋</h1>
 
