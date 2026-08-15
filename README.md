@@ -73,7 +73,6 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="30" /> GitHub Stats & 3D Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venkatbalusukuri&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatbalusukuri&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
